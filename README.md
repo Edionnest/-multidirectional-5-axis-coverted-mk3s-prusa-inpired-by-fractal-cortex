@@ -21,7 +21,7 @@ PETG  pyramid patterned substrate bed to increase adhesion
                         PLA upside down L printed at a 90 degree angle
 
 
-##Current Problems
+## Current Problems
 1. Print quality needs improvement.
 2. The offset between chunks increases as the print angle changes, causing misalignment between adjacent chunks ( current using a python script to align the chunks).
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/0cabdb77-ebf0-494f-8772-49c43bb364dd" />
@@ -30,7 +30,7 @@ PETG  pyramid patterned substrate bed to increase adhesion
 
 
 
-##Current Goals
+## Current Goals
 1. Improve print quality and accuracy, especially the alignment between chunks.
 2. Change the rotary-axis to rotate around the x-axis rather the y-axis.
 3. Rewrite Fractal Cortex (the slicing program) to, be more user-friendly, be easier to install and launch,Use modern, better-suited Python libraries where appropriate and for learning purposes.
