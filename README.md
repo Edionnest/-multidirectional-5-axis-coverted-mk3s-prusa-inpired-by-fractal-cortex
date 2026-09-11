@@ -14,11 +14,11 @@ PETG  pyramid patterned substrate bed to increase adhesion
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/fbe5cfde-5356-4651-b9eb-6b9023f59b4b" />
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/7a1b22da-b7d0-4bcb-bf77-f9b97f26ec4b" />
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/d893938a-00be-45f9-8f33-49df587dd3fd" />
-PLA hollow upside down L printed at a 45 degree angle
+                        PLA hollow upside down L printed at a 45 degree angle
 
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/6dc1ca21-1ea4-4d86-ab23-fa3ed11b9011" />
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/0c8bc5b7-bef6-4356-b4e9-7f000866fd1c" />
-PLA upside down L printed at a 90 degree angle
+                        PLA upside down L printed at a 90 degree angle
 
 
 ##Current Problems
@@ -26,7 +26,8 @@ PLA upside down L printed at a 90 degree angle
 2. The offset between chunks increases as the print angle changes, causing misalignment between adjacent chunks ( current using a python script to align the chunks).
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/0cabdb77-ebf0-494f-8772-49c43bb364dd" />
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/8a1f85ab-1203-468b-b4b3-1cb403e4cff0" />
-chunks misalignment
+                                            chunks misalignment
+
 
 
 ##Current Goals
